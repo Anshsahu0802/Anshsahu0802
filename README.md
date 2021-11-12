@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anshsahu0802
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 Web Developer
+-
 - 📫 How to reach me = anshsahu0802@gmail.com
 
 
